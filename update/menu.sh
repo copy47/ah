@@ -164,7 +164,7 @@ echo -e ""
  echo -e  " ${GREEN} ║\e[0m13. Speedtest $mg  "
  echo -e  " ${GREEN} ║\e[0m14. Info Script Auto Install $mg   "
  echo -e  " ${GREEN} ╠═════════════════════════════════════════════════╣"
- echo -e  " ${GREEN} ║${cyan}  SCRIPT BY ARYA BLITAR 4                  ${GREEN}║"
+ echo -e  " ${GREEN} ║${cyan}  SCRIPT BY ARYA BLITAR 4                        ${GREEN}║"
  echo -e  " ${GREEN} ╚═════════════════════════════════════════════════╝\e[0m"
 echo -e  ""
 read -p " Select From Options [1-14 or x] : " menu
